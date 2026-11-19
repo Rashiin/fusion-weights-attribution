@@ -1,0 +1,8 @@
+images: 20638
+hamming threshold: 6
+near-duplicate groups (size>1): 39 covering 78 images
+largest group: 2
+groups spanning more than one split: 22
+groups with conflicting labels: 1
+test images with a near-duplicate in train/val: 10
+leaf fraction mean: 0.411
